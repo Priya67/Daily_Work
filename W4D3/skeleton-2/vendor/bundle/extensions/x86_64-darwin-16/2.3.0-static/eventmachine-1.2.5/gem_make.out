@@ -1,0 +1,20 @@
+current directory: /Users/priyamangal/Desktop/W4D3/skeleton-2/vendor/bundle/gems/eventmachine-1.2.5/ext/fastfilereader
+/Users/priyamangal/.rbenv/versions/2.3.1/bin/ruby -r ./siteconf20170823-693-1tsrem2.rb extconf.rb
+creating Makefile
+
+To see why this extension failed to compile, please check the mkmf.log which can be found here:
+
+  /Users/priyamangal/Desktop/W4D3/skeleton-2/vendor/bundle/extensions/x86_64-darwin-16/2.3.0-static/eventmachine-1.2.5/mkmf.log
+
+current directory: /Users/priyamangal/Desktop/W4D3/skeleton-2/vendor/bundle/gems/eventmachine-1.2.5/ext/fastfilereader
+make "DESTDIR=" clean
+
+current directory: /Users/priyamangal/Desktop/W4D3/skeleton-2/vendor/bundle/gems/eventmachine-1.2.5/ext/fastfilereader
+make "DESTDIR="
+compiling mapper.cpp
+compiling rubymain.cpp
+linking shared-object fastfilereaderext.bundle
+
+current directory: /Users/priyamangal/Desktop/W4D3/skeleton-2/vendor/bundle/gems/eventmachine-1.2.5/ext/fastfilereader
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 fastfilereaderext.bundle ./.gem.20170823-693-k75psd
