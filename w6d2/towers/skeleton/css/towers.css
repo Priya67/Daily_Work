@@ -1,0 +1,14 @@
+.gray {
+  /*list-style: none;*/
+  background-color: gray;
+  margin-top: 10px;
+}
+
+ul {
+  justify-content: center;
+}
+
+.base {
+    background-color: black;
+    margin-top: 10px;
+}
